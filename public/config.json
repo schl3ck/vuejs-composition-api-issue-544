@@ -1,0 +1,9 @@
+{
+  "trains": [
+    {
+      "name": "Test Train 1",
+      "url": "nowhere"
+    }
+  ],
+  "envLabel": "Dev"
+}
